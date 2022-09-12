@@ -1,0 +1,19 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "name": "Shopping",
+      "cost": 1000
+    },
+    {
+      "name": "barber",
+      "cost": "250",
+      "id": 2
+    },
+    {
+      "name": "shoes",
+      "cost": "2000",
+      "id": 3
+    }
+  ]
+}
